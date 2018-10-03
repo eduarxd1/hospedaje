@@ -1,0 +1,62 @@
+
+body {
+	margin o;				
+  }
+  
+
+contenido4 {
+background-image: url(img/wallapaperslogin.jpg);
+  }
+
+
+  .colorlogin{
+    padding: 4%;
+    background: -moz-linear-gradient(top,  rgba(0,0,0,0.65) 62%, rgba(0,0,0,0.65) 74%, rgba(0,0,0,0.65) 93%, rgba(0,0,0,0) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(62%,rgba(0,0,0,0.65)), color-stop(74%,rgba(0,0,0,0.65)), color-stop(93%,rgba(0,0,0,0.65)), color-stop(100%,rgba(0,0,0,0))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(0,0,0,0.65) 62%,rgba(0,0,0,0.65) 74%,rgba(0,0,0,0.65) 93%,rgba(0,0,0,0) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(0,0,0,0.65) 62%,rgba(0,0,0,0.65) 74%,rgba(0,0,0,0.65) 93%,rgba(0,0,0,0) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(0,0,0,0.65) 62%,rgba(0,0,0,0.65) 74%,rgba(0,0,0,0.65) 93%,rgba(0,0,0,0) 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  rgba(0,0,0,0.65) 62%,rgba(0,0,0,0.65) 74%,rgba(0,0,0,0.65) 93%,rgba(0,0,0,0) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#00000000',GradientType=0 ); /* IE6-9 */
+
+  }
+  .colorlabel{
+    color:#FFFFFF;
+    font-size: 19px;
+  }
+video{
+	
+	position: fixed;
+	min width: 100%;
+	min-height: 100%;
+	top: 50%;
+	left: 50%;
+	
+
+	transform: translateX(-50%) translateY(-50%);
+	z-index: -1;
+	
+	}
+#contenido {
+		width: 100%;
+		heigh: 100vh;
+		background: rgba(0, 0, 0, 0.3);
+		color: #fff;
+		margin: 3px;
+		
+	}
+#contenido1 {
+		width: 100%;
+		heigh: 100vh;
+		background-color: rgba(0, 0, 0, 0.3);
+		background-attachment: fixed;
+		backgraound-position: center;
+	}
+#contenido2{
+	
+		width: 100%;
+		heigh: 100vh;
+		background-color: rgba(0, 0, 0, 0.7);
+		background-attachment: fixed;
+		backgraound-position: center;
+}
